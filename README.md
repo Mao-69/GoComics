@@ -1,0 +1,2 @@
+# GoComics
+Go Comics Scrapper
